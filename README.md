@@ -27,6 +27,10 @@ See [this github repository](https://github.com/rdotsch/rcicr_examples/).
 
 
 
+
+
+
+
 ## 대상의 정보에 따른 정신적 표상
 ```
 ci <- generateCI2IFC(rcdata$stim, rcdata$response, "male", 'stimuli/rcic_seed_1_time_Aug_08_2024_03_37.Rdata', scaling='matched')
